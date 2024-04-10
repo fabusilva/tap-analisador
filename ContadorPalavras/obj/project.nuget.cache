@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPWf89M+9IvMkR/rrY+1YpG7vtslwJ+HEL4vLjsjTshriTA5pSno1jOlA+rcg6MNqbYe28YKvggEow0W2+ljvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorio\\tap-analisador\\ContadorPalavras\\ContadorPalavras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
